@@ -26,3 +26,11 @@
 ```
 
 * 以上局部代码来自于web接口调用的使用方式，resp 是在web应用中常见的的HttpServletResponse
+
+## 图片预览
+
+* 24个字符
+![image](https://github.com/YpandaGit/kaptchar/blob/master/captcha.jpg?raw=true)
+
+* 4个字符
+![image](https://github.com/YpandaGit/kaptchar/blob/master/captcha_1.jpg?raw=true)
