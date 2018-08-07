@@ -3,7 +3,6 @@
 * @author youpan
 * @version V1.0   
 */
-package inid.youpan.blog.kaptchar;
 
 import java.awt.Color;
 import java.awt.Font;
