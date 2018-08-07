@@ -30,7 +30,7 @@ public class SimpleKaptchar extends AbstractKaptchar {
 
 		setWidth(length * 45);
 
-		// 创建验证码图片
+		// 创建验证码图片 
 		createBufferedImage(code);
 	}
 
